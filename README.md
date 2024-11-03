@@ -1,1 +1,1 @@
-# tissyp.github.io -  Persona portfolio
+# tissyp.github.io -  Personal portfolio
